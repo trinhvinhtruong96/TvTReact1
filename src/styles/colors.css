@@ -1,0 +1,15 @@
+:root {
+    --text-primary: #026ff5;
+    --text-secondary: #555555;
+    --text-tertiary: black;
+    --text-hightlight: #1313ec;
+
+    --bg-primary: #ffffff;
+    --bg-secondary: #f5f5f5;
+    --bg-tertiary: #e0e0e0;
+    --bg-hightlight: #8dadbd;
+
+    --interactive: #8dadbd;
+    --active: #aac8d9;
+    --hightlight: #1313ec;
+}
